@@ -1,0 +1,8 @@
+bin
+obj
+.vscode
+Properties
+appsettings.JSON
+DevReviews.API.csproj
+appsettings.Development.JSON
+WeatherForecast.cs
